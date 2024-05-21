@@ -2,7 +2,7 @@
 
 Um banco de dados é uma coleção organizada de dados que facilita o armazenamento, a recuperação e a gestão eficiente de informações. Ele pode ser de diferentes tipos, cada um adaptado a necessidades específicas:
 
-* Relacional (RDBMS): Usa tabelas para organizar dados e permite consultas complexas através da linguagem SQL. Exemplos incluem MySQL, PostgreSQL e SQL Server[SQL Server](SQL%20Server/scripts.md). É ideal para aplicações empresariais e sistemas que exigem transações confiáveis.
+* Relacional (RDBMS): Usa tabelas para organizar dados e permite consultas complexas através da linguagem SQL. Exemplos incluem MySQL, PostgreSQL e [SQL Server](SQL%20Server/scripts.md). É ideal para aplicações empresariais e sistemas que exigem transações confiáveis.
 
 * Não Relacional (NoSQL): Inclui bancos de dados de documentos, chave-valor, colunares e de grafos. Exemplos são MongoDB e Cassandra. Adequado para grandes volumes de dados e estruturas flexíveis, como em aplicações web e big data.
 
